@@ -1,11 +1,13 @@
 # Alexander Dieringer
 
 #### Favorite Locations: The forests of Ohio & the mountains of New Mexico
+
 The mountains of **New Mexico**, specifically the Sangre de Cristo Mountains of the Rocky Mountains, as well as the forests near **Kensington, OH** are some of my favorite places in the world because of the memories I made visiting them with my father.
 
 ---
 
 #### Travel directions (Google Maps)
+
 **Destination: New Mexico**
 1. Get on US-71 S from Maryville, MO
 2. Continue on US-71. Take US-59 S, KS-4W and I-70 W to KS-156 W in Garfield. Take exit 225 from I-70 W
@@ -78,3 +80,5 @@ The mountains of **New Mexico**, specifically the Sangre de Cristo Mountains of 
 * Sunscreen & Bug Spray
 * Bear bags, line, carabiner
     * Bears are scary, hitch your smellables up high
+
+    [Visit my About Me Page](AboutMe.md)
