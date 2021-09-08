@@ -81,4 +81,5 @@ The mountains of **New Mexico**, specifically the Sangre de Cristo Mountains of 
 * Bear bags, line, carabiner
     * Bears are scary, hitch your smellables up high
 
-    [Visit my About Me Page](AboutMe.md)
+---
+[Visit my About Me Page](AboutMe.md)
