@@ -53,7 +53,7 @@ The mountains of **New Mexico**, specifically the Sangre de Cristo Mountains of 
     24. Turn left onto US-64 W
 4. Arrive at Philmont Scout Ranch, New Mexico
 
-**Travel Supplies**
+**Travel Supplies**<br>
 ***These travel supplies are recommended due to the mountainous and forested area at the travel location***
 
 * General camping supplies
