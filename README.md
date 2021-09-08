@@ -52,3 +52,29 @@ The mountains of **New Mexico**, specifically the Sangre de Cristo Mountains of 
     23. Turn left onto NM-58 W
     24. Turn left onto US-64 W
 4. Arrive at Philmont Scout Ranch, New Mexico
+
+**Travel Supplies**
+***These travel supplies are recommended due to the mountainous and forested area at the travel location***
+
+* General camping supplies
+    * Tent for shelter
+    * Sleeping bags and/or blankets
+    * Pillow
+    * Flaslight & backpack batteries
+    * Camping stove or tools to cook
+* Tent for camping outdoors
+* Sleeping Bags and/or Blankets
+* Appropriate clothing
+    * Loose clothing for active days
+    * Warm clothing/jackets for cold nights
+    * Rain jacket
+* Hiking equipment
+    * Hiking boots
+    * Tough/thick socks
+    * Hiking backpack
+    * Water Bottle (3L or three 1L))
+* Tioletries & Shower Supplies
+* Eating Utensils (plastic cup/spoon)
+* Sunscreen & Bug Spray
+* Bear bags, line, carabiner
+    * Bears are scary, hitch your smellables up high
