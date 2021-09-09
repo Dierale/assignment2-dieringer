@@ -34,6 +34,34 @@ And the people there see you differently, too.
 > The worst thing you can do is nothing.<br>
 *- Terry Pratchett*
 
+---
+#### Algebraic Algorithms
+
+**Chosen algorithm: Fibonacci**
+My S number is S503330 thus I must pick from algebra.
+
+> The Fibonacci numbers are the numbers in the following integer sequence.
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ……..<br>
+> In mathematical terms, the sequence Fn of Fibonacci numbers is defined by the recurrence relation<br>
+>> Fn = Fn-1 + Fn-2<br>
+> with seed values <br>
+>> F0 = 0 and F1 = 1.
+
+[source](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)
+
+```pair<int, int> fib (int n) {
+    if (n == 0)
+        return {0, 1};
+
+    auto p = fib(n >> 1);
+    int c = p.first * (2 * p.second - p.first);
+    int d = p.first * p.first + p.second * p.second;
+    if (n & 1)
+        return {d, c + d};
+    else
+        return {c, d};
+}```
+
 
 ---
 [Back to README](README.md)
