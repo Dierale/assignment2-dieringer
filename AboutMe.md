@@ -51,7 +51,8 @@ My S number is S503330 thus I must pick from algebra.
 
 [source](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)
 
-```pair<int, int> fib (int n) {
+```
+pair<int, int> fib (int n) {
     if (n == 0)
         return {0, 1};
 
@@ -62,7 +63,8 @@ My S number is S503330 thus I must pick from algebra.
         return {d, c + d};
     else
         return {c, d};
-}```
+}
+```
 
 
 ---
