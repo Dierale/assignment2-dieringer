@@ -11,4 +11,17 @@ My favorite food is anything to do with blackberries really. Here have a picture
 ![blackberries](Blackberry.jpg "Delicious Blackberries")
 
 ---
+#### Foods to try
+
+Speaking of foods, I have a few I really enjoy and I think that everyone should try at least one of following things.
+
+| **Name** | **Available At** | **Estimated Cost** |
+| --- | --- | --- |
+| Blackberry Frozen Yogurt | Nutrissa shops (Mexico) | $10 |
+| Barbacoa Tacos (Leg of Lamb) | Latin America | $10 |
+| Alambres | El Maguey restaurants | $12 |
+| Blackberry Lemonade | Ruby Tuesday restaurants | $7 |
+
+
+---
 [Back to README](README.md)
